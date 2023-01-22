@@ -1,5 +1,0 @@
-\contentsline {section}{\numberline {1}\textbf {Maths Paper}}{2}{}%
-\contentsline {subsection}{\numberline {1.1}\textbf {Section - A\hspace *{2cm}[20 Marks]}}{2}{}%
-\contentsline {subsection}{\numberline {1.2}\textbf {Section - B\hspace *{2cm}[20 Marks]}}{4}{}%
-\contentsline {section}{\numberline {2}\textbf {Table}}{6}{}%
-\contentsline {section}{\numberline {3}\textbf {Images}}{7}{}%
